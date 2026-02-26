@@ -1,0 +1,16 @@
+﻿# .gitignore for NEUXSBOT Release Repository
+
+# 只保留发布文件，忽略其他所有内容
+*
+
+# 允许以下文件
+!README.md
+!LICENSE
+!.gitignore
+!releases/
+!releases/**
+!docs/
+!docs/**
+!images/
+!images/**
+!CHANGELOG.md
