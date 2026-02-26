@@ -301,27 +301,27 @@ NexusBot支持市面上几乎所有主流AI模型，你可以根据任务特点�
 ### 支持的模型提供商
 
 #### 国外厂商
-- **<img src="图片/未命名图片_2.png" alt="OpenAI" width="20" style="vertical-align: middle;"> OpenAI**：GPT-4o, GPT-4o-mini等
-- **<img src="图片/未命名图片_3.jpg" alt="Anthropic" width="20" style="vertical-align: middle;"> Anthropic**：Claude Sonnet, Claude Opus等
-- **<img src="图片/未命名图片_4.jpg" alt="Google" width="20" style="vertical-align: middle;"> Google**：Gemini Pro, Gemini Flash等
-- **<img src="图片/未命名图片_5.jpg" alt="DeepSeek" width="20" style="vertical-align: middle;"> DeepSeek**：DeepSeek Reasoner, DeepSeek Chat
+- **OpenAI**：GPT-4o, GPT-4o-mini等
+- **Anthropic**：Claude Sonnet, Claude Opus等
+- **Google**：Gemini Pro, Gemini Flash等
+- **DeepSeek**：DeepSeek Reasoner, DeepSeek Chat
 
 #### 国内厂商
-- **<img src="图片/未命名图片_6.jpg" alt="Moonshot" width="20" style="vertical-align: middle;"> Moonshot**（月之暗面）
-- **<img src="图片/未命名图片_6.jpg" alt="智谱AI" width="20" style="vertical-align: middle;"> Zhipu**（智谱）GLM-4, GLM-4-Plus等各种大语言模型
-- **<img src="图片/未命名图片_6.jpg" alt="MiniMax" width="20" style="vertical-align: middle;"> MiniMax**：高性能多模态模型
-- **<img src="图片/未命名图片_6.jpg" alt="通义千问" width="20" style="vertical-align: middle;"> Qwen**（通义千问）Qwen-Max, Qwen-Plus等超大规模语言模型
-- **<img src="图片/未命名图片_6.jpg" alt="百川智能" width="20" style="vertical-align: middle;"> Baichuan**：百川智能Baichuan 4等企业级大模型
+- **Moonshot**（月之暗面）
+- **Zhipu**（智谱）GLM-4, GLM-4-Plus等各种大语言模型
+- **MiniMax**：高性能多模态模型
+- **Qwen**（通义千问）Qwen-Max, Qwen-Plus等超大规模语言模型
+- **Baichuan**：百川智能Baichuan 4等企业级大模型
 
 #### 聚合服务
-- **<img src="图片/未命名图片_6.jpg" alt="OpenRouter" width="20" style="vertical-align: middle;"> OpenRouter**（访问多种模型）名种模型聚合服务
-- **<img src="图片/未命名图片_6.jpg" alt="API2D" width="20" style="vertical-align: middle;"> API2D**：国内领先API接口服务名
-- **<img src="图片/未命名图片_6.jpg" alt="Coze" width="20" style="vertical-align: middle;"> Coze**：新一代AI助手名种智能体平台
-- **<img src="图片/未命名图片_6.jpg" alt="Dify" width="20" style="vertical-align: middle;"> Dify**：专业LLM应用构建平台名
+- **OpenRouter**（访问多种模型）名种模型聚合服务
+- **API2D**：国内领先API接口服务名
+- **Coze**：新一代AI助手名种智能体平台
+- **Dify**：专业LLM应用构建平台名
 
 #### 本地部署
-- **<img src="图片/未命名图片_6.jpg" alt="Ollama" width="20" style="vertical-align: middle;"> Ollama**（支持Llama, Mistral等开源模型）名种本地模型运行框架
-- **<img src="图片/未命名图片_6.jpg" alt="LM Studio" width="20" style="vertical-align: middle;"> LM Studio**：专业本地模型管理工具名
+- **Ollama**（支持Llama, Mistral等开源模型）名种本地模型运行框架
+- **LM Studio**：专业本地模型管理工具名
 
 ### 配置步骤
 
